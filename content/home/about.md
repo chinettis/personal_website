@@ -14,11 +14,14 @@ weight: 20
 
 title: Biography
 
+---
 
 widget: accomplishments
 
 # Activate this widget? true/false
 active: false
+
+---
 
 widget: demo
 active: false
