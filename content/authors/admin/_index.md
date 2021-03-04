@@ -14,7 +14,7 @@ organizations:
   url: https://www.unisa.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! I am a Research Fellow (Assegnista di Ricerca) at the Department of Economics and Statistics of the University of Salerno and a PhD Candidate in the Department of Economics and Statistics of the University of Naples Federico II, where I worked under the supervision of Prof. A. Acconcia. 
+# bio: 
 
 # Interests to show in About widget
 interests:
@@ -64,8 +64,7 @@ social:
 highlight_name: false
 ---
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a Research Fellow (Assegnista di Ricerca) at the Department of Economics and Statistics of the University of Salerno and a PhD Candidate in the Department of Economics and Statistics of the University of Naples Federico II, where I worked under the supervision of Prof. A. Acconcia. 
 
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
