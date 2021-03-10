@@ -2,10 +2,15 @@
 widget: pages
 
 headless: true
+
 weight: 90
+
 design:
-  columns: '1'
-page_type: blank  
+  view: '1'
+  
+page_type: publication
+
+
 
 title: Research
 subtitle: ''
