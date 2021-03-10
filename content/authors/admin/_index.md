@@ -53,10 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-CV:
- - icon: cv
-   icon_pack: ai
-   link: media/SChinetti_CV-4.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/SChinetti_CV-4.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -70,4 +69,4 @@ Hi! I am a Research Fellow (*Assegnista di Ricerca*) at the Department of Econom
 I am an empirical economist whose research interests mostly lie in Public Economics and Policy as well as in Labour Economics and their intersection.
 
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/SChinetti_CV-4.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my [resumé](https://www.dropbox.com/s/yzodtghg3urb8fa/SChinetti_CV.pdf?dl=0).
