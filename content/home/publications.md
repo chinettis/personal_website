@@ -1,18 +1,13 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 90
 
 title: Research
 subtitle: ''
 
-**Working Papers**
+# Working Papers
 1. Academic producitivity and pandemic: Evidence from female economist during the COVID-19 crisis (2021; [WP soon available!]())
 <details>
   <summary>Abstract</summary>
@@ -21,7 +16,7 @@ subtitle: ''
 </details>
 
 
-**Work in Progress**
+# Work in Progress
 1. The consumption response to transitory income shocks: the case of lotteries (2021; joint with [A. Acconcia](https://csef.it/people/antonio-acconcia/))
 2. Later life human capital investment: Evidence from the unintended effects of a pension reform (2020)
 <details>
