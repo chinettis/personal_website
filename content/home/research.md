@@ -1,19 +1,31 @@
----
-widget: research
++++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-headless: true
-active: true
-weight: 90
+widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-design:
-  columns: '1'
-  
-page_type: blank
+title = "Research"
+subtitle = ""
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
 
-title: Research
-subtitle: ''
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
 
 # Working Papers
 1. Academic producitivity and pandemic: Evidence from female economist during the COVID-19 crisis (2021; [WP soon available!]())
