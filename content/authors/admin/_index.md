@@ -69,4 +69,4 @@ Hi! I am a Research Fellow (*Assegnista di Ricerca*) at the Department of Econom
 I am an empirical economist whose research interests mostly lie in Public Economics and Policy as well as in Labour Economics and their intersection.
 
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/SChinetti_CV-4.pdf" "newtab" >}}resumé{{< /staticref >}}.
