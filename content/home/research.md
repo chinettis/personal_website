@@ -10,9 +10,6 @@ subtitle = ""
 [design]
   columns = "2"
 
-[design.spacing]
-  padding = ["10px", "0", "10px", "0"]
-
 [advanced]
  css_style = ""
  
