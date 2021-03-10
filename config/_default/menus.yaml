@@ -19,12 +19,12 @@ main:
   - name: CV
     url: https://www.dropbox.com/s/yzodtghg3urb8fa/SChinetti_CV.pdf?dl=0
     weight: 20
-  - name: Research
-    url: '#featured'
-    weight: 30
+#  - name: Research
+#    url: '#featured'
+#    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
