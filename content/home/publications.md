@@ -10,7 +10,7 @@ design:
   
 page_type: publication
 
-
+active: false
 
 title: Research
 subtitle: ''
