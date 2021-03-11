@@ -16,7 +16,7 @@ subtitle = ""
  css_class = ""
 +++
 
-# Working Papers
+## Working Papers
 1. Academic producitivity and pandemic: Evidence from female economist during the COVID-19 crisis (2021; [WP soon available!]())
 <details>
   <summary>Abstract</summary>
@@ -24,7 +24,7 @@ subtitle = ""
   I study the impact of the COVID-19 pandemic on female economists’ research productivity. I collect data from the SSRN web archive on 4,778 distinct pre-prints in- volving 8,651 authors from over 90 countries observed from January to mid-November 2020. By estimating a Difference-in-Differences, my results show that, since the lock- down began, the number of working papers written by a female economist, alone or jointly with other researchers, uploaded on SSRN declined of about 20 percentage points and this negative effect persists up to about 4 months later. Declines in productivity, however, disappear during the school re-opening period suggesting that indeed childcare demand has been an important channel in causing women production drop. Finally, declines in productivity are not associated with increases in pre-prints’ quality.
 </details>
 
-# Work in Progress
+## Work in Progress
 1. The consumption response to transitory income shocks: the case of lotteries (2021; joint with [A. Acconcia](https://csef.it/people/antonio-acconcia/))
 2. Later life human capital investment: Evidence from the unintended effects of a pension reform (2020)
 <details>
