@@ -64,7 +64,7 @@ social:
 highlight_name: false
 ---
 
-Hi! I am a Research Fellow (*Assegnista di Ricerca*) at the Department of Economics and Statistics of the University of Salerno. I am also a PhD Candidate in the Department of Economics and Statistics of the University of Naples Federico II, where I am working under the supervision of [Prof. A. Acconcia](https://csef.it/people/antonio-acconcia/). 
+Hi! I am a Research Fellow (*Assegnista di Ricerca*) at the Department of Economics and Statistics of the [University of Salerno](https://www.dises.unisa.it). I am also a PhD Candidate in the Department of Economics and Statistics of the [University of Naples Federico II](http://www.dises.unina.it), where I am working under the supervision of [Prof. A. Acconcia](https://csef.it/people/antonio-acconcia/). 
 
 I am an empirical economist whose research interests mostly lie in Public Economics and Policy as well as in Labour Economics and their intersection.
 
